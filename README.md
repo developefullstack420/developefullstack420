@@ -132,19 +132,8 @@
 </table>
 <br><br>
 
-
 </div>
 <br/>  
-
-
-
-
-
-
-
-
-
-
 
 <p align="center">
 
@@ -152,31 +141,7 @@
 <a href="https://github.com/developefullstack420?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Aleksey-Voko&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Goblin's github-readme-stats"/></a>
 -->
 </p>
-
-
-
-
-
-
-
-
-
-
-# Reach out to me #
-
-To comtact me.
-flyskydream420@gmail.com
-
-# Welcome!
   
-
-<a href="http://au-portfolio.great-site.net" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-
 ## My personal values and work ethic
 ✨ I want to build strong relationships with my clients.
 
